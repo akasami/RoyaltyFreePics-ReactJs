@@ -23,7 +23,7 @@ A searched based application for finding royalty free pictures using React Js & 
 <br />
 <div align="center">
 
-  <img src="images/App.jpg" alt="Logo">
+  <img src="images/appss.png" alt="Logo">
   </a>
 </div>
 
