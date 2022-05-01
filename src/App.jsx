@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import logo from "./logo.svg";
 import './App.css'
-const Access_Key = "bfus-LE42c2qFez0OpmittZsEmnvkwuxyjan6fVV12w";
+const Access_Key = "paste your api access key here.";
 
 import ImgCard from "./ImgCard";
 import Footer from "./footer";
