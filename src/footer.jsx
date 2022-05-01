@@ -20,7 +20,7 @@ const Footer=() => {
         <a href="#">Faq</a>
         <a href="#">Contact</a>
       </p>
-      <p>Sameed Zahoor © 2022</p>
+      <p>RoyaltyFreePics © 2022</p>
     </div>
   </footer>
 </div>

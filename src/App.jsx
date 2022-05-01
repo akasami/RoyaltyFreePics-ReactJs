@@ -33,7 +33,7 @@ function App() {
 <div>
 <div className="container">
   <header>
-    <h2><a href="#"><i className="ion-plane" /> Royalty Free Images</a></h2>
+    <h2><a href="#"><i className="ion-plane" /> RoyaltyFreePics</a></h2>
     <nav>
       <ul>
         <li>
